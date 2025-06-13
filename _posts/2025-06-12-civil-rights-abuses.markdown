@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 date: 2025-06-12
-img: dueprocess.png
+img: civilrights.png
 alt: image-alt
 project-date: June 2025
 client: Start Bootstrap
