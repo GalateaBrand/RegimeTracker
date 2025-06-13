@@ -7,5 +7,5 @@ alt: image-alt
 project-date: June 2025
 client: Start Bootstrap
 category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: Donal Trump, his family, and his allies have used his office as president to enrich themselves by gaming the stock market and making deals with foregin governments. Below you will find a list of deals and trades that exhibit obvious conflicts of interest. 
 ---

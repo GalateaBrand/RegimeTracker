@@ -7,5 +7,5 @@ alt: image-alt
 project-date: June 2025
 client: Start Bootstrap
 category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: The Trump regime has sought to undermine the conduct of scientific research and academic freedom in the United States. They have imposed Orwellian rules governing allowable topics and language, threatened insitutions, made massive illegal cuts to funding, and sought to restructure the research apparatus without the consent of Congress. Below you will find a compiled list of many of the more egregious examples the administration's anti-science actions. 
 ---

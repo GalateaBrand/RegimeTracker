@@ -7,5 +7,5 @@ alt: image-alt
 project-date: June 2025
 client: Start Bootstrap
 category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: The Trump regime has implemented a number of dangerous and unethical foreing policy decisions. These including betraying the Ukrainian democracy, levying tariffs against US allies, and cutting USAID funding, which has led to the deaths of an estimated 300,000 people (mostly children). Below you will find a list of atrocities that the administration has either carried out or been complicit in. 
 ---

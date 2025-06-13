@@ -7,5 +7,5 @@ alt: image-alt
 project-date: June 2025
 client: Start Bootstrap
 category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: The Trump regime continues to flagrantly violate federal court orders against a wide range of their policy decisions. Trump has signed executive orders that blatantly violate constitutional rights such as due process and birthright citizenship. Below you will find a list of clear violations of the constitutional separation of powers, which are being implemented to erode the checks and balances built into the US government. 
 ---
