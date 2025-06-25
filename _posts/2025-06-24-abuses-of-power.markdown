@@ -1,8 +1,8 @@
 ---
 layout: default
 modal-id: 6
-date: 2025-06-12
-img: separation.png
+date: 2025-06-24
+img: abuses.png
 alt: image-alt
 project-date: June 2025
 client: Start Bootstrap

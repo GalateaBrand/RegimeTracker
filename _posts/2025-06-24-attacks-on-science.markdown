@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 5
-date: 2025-06-12
+date: 2025-06-24
 img: science.png
 alt: image-alt
 project-date: June 2025
