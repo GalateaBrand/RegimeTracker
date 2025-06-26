@@ -1,6 +1,6 @@
 ---
 layout: default
-modal-id: 1
+modal-id: 2
 date: 2025-06-24
 img: civilrights.png
 alt: image-alt
