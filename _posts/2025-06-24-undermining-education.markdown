@@ -1,6 +1,6 @@
 ---
 layout: default
-modal-id: 1
+modal-id: 6
 date: 2025-06-24
 img: education.png
 alt: image-alt

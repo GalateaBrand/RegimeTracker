@@ -1,6 +1,6 @@
 ---
 layout: default
-modal-id: 10
+modal-id: 7
 date: 2025-06-29
 img: racism.png
 alt: image-alt
